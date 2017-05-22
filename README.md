@@ -1,4 +1,4 @@
-# Magento 2 module creator by Mageplaza
+# Magento 2 Module Creator by Mageplaza
 The **Magento 2 Module Creator** by Mageplaza is an online tool that help developers creating a module easily with few click. Try Mageplaza [Magento](https://magento.com/)  Module Creator. This Module creator allows you create separate element in Magento backend and database table. You also can add a new entity for your module.
 
 
