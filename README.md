@@ -71,3 +71,13 @@ Enable create more functional module depending on different options. The functio
 ## Help
 
 - https://github.com/mageplaza/magento-2-module-creator/issues
+
+
+## Keywords for Module Generator
+
+- Magento 2 module creator
+- Magento 2 module generator
+- Magento 2 create module
+- Module generator for Magento 2
+- Module creator for Magento 2
+- How to create Magento 2 module
