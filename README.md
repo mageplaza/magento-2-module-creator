@@ -81,3 +81,9 @@ Enable create more functional module depending on different options. The functio
 - Module generator for Magento 2
 - Module creator for Magento 2
 - How to create Magento 2 module
+
+
+## Credits
+
+- Magento.com
+- [Magento 2 samples](https://github.com/magento/magento2-samples)

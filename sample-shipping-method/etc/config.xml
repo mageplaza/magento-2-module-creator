@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+    <default>
+        <carriers>
+            <simpleshipping>
+                <enable>1</enable>
+                <sallowspecific>0</sallowspecific>
+                <model>Mageplaza\Simpleshipping\Model\Carrier\Shipping</model>
+                <name>Mageplaza Sample Shipping Method</name>
+                <price>10.00</price>
+                <title>Mageplaza Sample Shipping Method</title>
+                <type>I</type>
+                <specific_error_msg>This shipping method is not available. To use this shipping method, please contact us.</specific_error_msg>
+            </simpleshipping>
+        </carriers>
+    </default>
+</config>
